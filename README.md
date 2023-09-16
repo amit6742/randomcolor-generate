@@ -1,1 +1,1 @@
-# this is my randomColor-color-generator app
+# this is my randomColor-generator app
